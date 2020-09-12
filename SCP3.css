@@ -1,0 +1,51 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+.header {
+
+    text-align: center;
+    font-size: xx-large;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+    overflow: hidden;
+    background-color:black;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center; 
+    padding: 10px 100px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color:green;
+  }
+  body {
+    background-image:url("https://www.holidify.com/images/foreign/compressed/attr_2852.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  
+  .i1{
+    width:100%;
+    text-align: center;
+    color:black;
+        padding: 10px 10px;
+    font-size: 30px;
+  }
+  .footer {
+    background-color: grey;
+    padding: 0px;
+    text-align: center;
+  }
